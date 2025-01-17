@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>"C:\SIIT-druga godina\Letnji semestar\Paralelno programiranje\projekat\PP_Projekat\PP_Projekat\Windows\color.bmp" "C:\SIIT-druga godina\Letnji semestar\Paralelno programiranje\projekat\PP_Projekat\Windows\outputSerialPrewitt.bmp" "C:\SIIT-druga godina\Letnji semestar\Paralelno programiranje\projekat\PP_Projekat\Windows\outputParallelPrewitt.bmp" "C:\SIIT-druga godina\Letnji semestar\Paralelno programiranje\projekat\PP_Projekat\Windows\outputSerialEdge.bmp" "C:\SIIT-druga godina\Letnji semestar\Paralelno programiranje\projekat\PP_Projekat\Windows\outputParallelEdge.bmp"</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LocalDebuggerCommandArguments>"suncokret.bmp" "outputSerialPrewitt.bmp" "outputParallelPrewitt.bmp" "outputSerialEdge.bmp" "outputParallelEdge.bmp"</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

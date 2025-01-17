@@ -1,0 +1,2 @@
+﻿  main.cpp
+C:\SIIT-druga godina\Letnji semestar\Paralelno programiranje\projekat\PP_Projekat\PP_Projekat\Windows\main.cpp(6,10): fatal  error C1083: Cannot open include file: 'tbb/tick_count.h': No such file or directory

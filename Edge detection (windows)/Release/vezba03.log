@@ -1,0 +1,2 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Platforms\Win32\PlatformToolsets\Intel C++ Compiler 2023\Toolset.targets(162,3): warning : 32 bit tools (PreferredToolArchitecture=x86) are not supported in Intel C++ Compiler toolset. 64 bit tools (PreferredToolArchitecture=x64) are used in this build.
+  vezba03.vcxproj -> C:\SIIT-druga godina\Letnji semestar\Paralelno programiranje\projekat\PP_Projekat\Projekat SV 14-2021\Windows\Release\ProjekatPP.exe
